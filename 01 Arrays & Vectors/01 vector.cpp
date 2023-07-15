@@ -10,7 +10,7 @@ int main(){
 	vector<int> arr(10,7);
 
 	//Fill Constructor
-	vector<int> visited(100,0);
+	vector<int> visited(10,0);
 
 	//Pop_back
 	arr.pop_back();
